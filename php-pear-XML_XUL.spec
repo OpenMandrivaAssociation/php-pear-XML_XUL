@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.8.3
-Release:	%mkrel 4
+Release:	%mkrel 5
 Summary:	Class to build Mozilla XUL applications
 License:	PHP License
 Group:		Development/PHP
