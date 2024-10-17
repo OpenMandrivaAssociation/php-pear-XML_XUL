@@ -8,7 +8,7 @@ Release:	9
 Summary:	Class to build Mozilla XUL applications
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/XML_XUL/
+URL:		https://pear.php.net/package/XML_XUL/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
